@@ -1,0 +1,13 @@
+.DS_Store
+*.swp
+*~.nib
+
+build/
+
+*.pbxuser
+*.model1v3
+*.model2v3
+*.perspective3
+*.xcuserstate
+Landmarks.xcworkspace/
+xcuserdata
